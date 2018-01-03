@@ -1,6 +1,6 @@
 {
   "name": "drupal-backstop-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Takes an JSON array of URLs and turns them into a boilerplate backstop configuration file.",
   "main": "index.js",
   "scripts": {
