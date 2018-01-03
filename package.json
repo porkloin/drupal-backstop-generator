@@ -1,5 +1,5 @@
 {
-  "name": "backstop-generator",
+  "name": "drupal-backstop-generator",
   "version": "0.0.1",
   "description": "Takes an JSON array of URLs and turns them into a boilerplate backstop configuration file.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/porkloin/backstop-generator.git"
+    "url": "git+https://github.com/porkloin/drupal-backstop-generator.git"
   },
   "keywords": [
     "backstopjs",
@@ -18,9 +18,9 @@
   "author": "porkloin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/porkloin/backstop-generator/issues"
+    "url": "https://github.com/porkloin/drupal-backstop-generator/issues"
   },
-  "homepage": "https://github.com/porkloin/backstop-generator#readme",
+  "homepage": "https://github.com/porkloin/drupal-backstop-generator#readme",
   "dependencies": {
     "jsonfile": "^4.0.0",
     "meow": "^4.0.0",
